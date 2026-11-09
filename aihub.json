@@ -1,1 +1,6 @@
-test
+{
+  "name": "layout-helper",
+  "type": "skill",
+  "description": "協助處理 layout 相關工作",
+  "entry": "SKILL.md"
+}
